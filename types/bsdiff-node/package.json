@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/bsdiff-node",
+    "version": "2.5.0.9999",
+    "projects": [
+        "https://github.com/Brouilles/bsdiff-node"
+    ],
+    "devDependencies": {
+        "@types/bsdiff-node": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Marcos",
+            "githubUsername": "marcosrg9"
+        }
+    ]
+}
